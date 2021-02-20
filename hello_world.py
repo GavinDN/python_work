@@ -1,2 +1,2 @@
 #coding=gbk
-print("你好 World")
+print("浣犲ソ World")
