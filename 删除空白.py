@@ -4,18 +4,7 @@ favorite_languages = " Python"
 print(favorite_languages)
 print(len(favorite_languages))
 
-# PythonÄÜ¹»ÕÒ³ö×Ö·û´®¿ªÍ·ºÍÄ©Î²¶àÓàµÄ¿Õ°×²¢Çå³ý
+# Pythonèƒ½å¤Ÿæ‰¾å‡ºå­—ç¬¦ä¸²å¼€å¤´å’Œæœ«å°¾å¤šä½™çš„ç©ºç™½å¹¶æ¸…é™¤
 favorite_languages = favorite_languages.strip()
 print(favorite_languages)
 print(len(favorite_languages))
-=======
-# coding=gbk
-favorite_languages = " Python"
-print(favorite_languages)
-print(len(favorite_languages))
-
-# PythonÄÜ¹»ÕÒ³ö×Ö·û´®¿ªÍ·ºÍÄ©Î²¶àÓàµÄ¿Õ°×²¢Çå³ý
-favorite_languages = favorite_languages.strip()
-print(favorite_languages)
-print(len(favorite_languages))
->>>>>>> f6e44f11f078c0c393ff5259f487b7da2abb40f7
