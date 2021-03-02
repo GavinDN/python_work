@@ -1,6 +1,6 @@
 # coding=gbk
 
-# Python可以进行不同的运算
+# Python锛堝彲浠ョ洿鎺ユ墦鍗板嚭鍚勭绫诲瀷鏁版嵁鐨勮繍绠楃粨鏋滐級
 
 print(1+2)
 print(2.0+1)
