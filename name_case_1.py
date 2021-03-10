@@ -1,12 +1,12 @@
 # coding=gbk 
 
-# ¸öĞÔ»¯ÏûÏ¢
+# ä¸ªæ€§åŒ–æ¶ˆæ¯å°æµ‹è¯•
 '''
-½«ÓÃ»§µÄĞÕÃû´æµ½Ò»¸ö±äÁ¿ÖĞ
-²¢Ïò¸ÃÓÃ»§ÏÔÊ¾Ò»ÌõĞÅÏ¢¡£
-ÏÔÊ¾µÄÏûÏ¢Ó¦·Ç³£¼òµ¥
-Èç"Hello Gavin,would you like learn some Python today?"
+å°†ç”¨æˆ·çš„å§“åå­˜åˆ°ä¸€ä¸ªå˜é‡ä¸­
+å¹¶å‘è¯¥ç”¨æˆ·æ˜¾ç¤ºä¸€æ¡ä¿¡æ¯ã€‚
+æ˜¾ç¤ºçš„æ¶ˆæ¯åº”éå¸¸ç®€å•
+å¦‚"Hello Gavin,would you like learn some Python today?"
 '''
 
-name = input("ÇëÊäÈëÄúµÄĞÕÃû:")
+name = input("è¯·è¾“å…¥æ‚¨çš„å§“å:")
 print("\"Hello " + name +",would you like learn some Python today?\"")
