@@ -15,3 +15,4 @@ with open("D：/text.txt", "w") as f:                    # 以只写的模式打
 with open("D：/text.txt", "r", encoding="gbk") as f:    # 以只读的模式打开文件
 	print(f.readlines())                               # 读取全部内容
 file = open("D:/python,jpg", "rb")                     # 以二进制方式打开图片
+# 2021.4.20
