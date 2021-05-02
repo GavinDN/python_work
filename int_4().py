@@ -1,6 +1,6 @@
 # coding=gbk
 
-# 实现将二进制IP地址转换为十进制表示的IP地址
+# 瀹炵幇灏嗕簩杩涘埗IP鍦板潃杞崲涓哄崄杩涘埗琛ㄧず鐨処P鍦板潃
 
 def get_num(b):
 	list_str = b.split(" ")
@@ -9,3 +9,5 @@ def get_num(b):
 		new_str.append(str(int(i, 2)))
 	return ".".join(new_str)
 print(get_num("00001010 00000011 00001001 00001100"))
+
+# 2021.5.2
