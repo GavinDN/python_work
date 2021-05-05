@@ -1,6 +1,8 @@
 # coding=gbk
 
-# 输出小写英文字母列表
+# 脢盲鲁枚脨隆脨麓脫垄脦脛脳脰脛赂脕脨卤铆
 
 list=[chr(i) for i in range(97, 123)]
 print(list)
+
+# 2021.5.5
