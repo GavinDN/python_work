@@ -1,9 +1,10 @@
 # coding=gbk
 
-# ½«ÁĞ±í×ª»»Îª×Ö·û´®ĞÎÊ½
+# å°†åˆ—è¡¨è½¬æ¢ä¸ºå­—ç¬¦ä¸²å½¢å¼
 
-list1=['¶­éª','Gavin','PythonÑ§Ï°','2021Äê']
-print(list1)            # Êä³öÁĞ±í
-print(type(list1))      # ÁĞ±íÀàĞÍ
-print(str(list1))       # ÁĞ±í×ª»»Îª×Ö·û´®
-print(type(str(list1))) # ×Ö·û´®ÀàĞÍ
+list1=['è‘£æ¥ ','Gavin','Pythonå­¦ä¹ ','2021å¹´']
+print(list1)            # è¾“å‡ºåˆ—è¡¨
+print(type(list1))      # åˆ—è¡¨ç±»å‹
+print(str(list1))       # åˆ—è¡¨è½¬æ¢ä¸ºå­—ç¬¦ä¸²
+print(type(str(list1))) # å­—ç¬¦ä¸²ç±»å‹
+
