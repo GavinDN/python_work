@@ -1,6 +1,6 @@
 # coding=gbk
 
-# 绝对值在小游戏中的应用
+# 缁濆鍊煎湪灏忔父鎴忎腑鐨勫簲鐢�
 
 import turtle
 turtle.setup(600, 300)
@@ -14,8 +14,9 @@ for num in a:
 	turtle.forward(num)
 	sum = sum + abs(num)
 
-# 输出文字
+# 杈撳嚭鏂囧瓧
 printer = turtle.Turtle()
-printer.write("小海龟爬行的总行程： " + str(num) + "\n\n", align = "right", font = ("楷体", 12, "bold"))
-printer.write("小海龟得到的豆子数： " + str(num*3) + ' ', align = "right", font = ("楷体", 12, "bold"))
+printer.write("灏忔捣榫熺埇琛岀殑鎬昏绋嬶細 " + str(num) + "\n\n", align = "right", font = ("妤蜂綋", 12, "bold"))
+printer.write("灏忔捣榫熷緱鍒扮殑璞嗗瓙鏁帮細 " + str(num*3) + ' ', align = "right", font = ("妤蜂綋", 12, "bold"))
 turtle.mainloop()
+
