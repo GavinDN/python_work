@@ -2,4 +2,4 @@
 
 # Happy Birthday
 
-print("6.19ÉúÈÕ¿ìÀÖ£¡")
+print("6.19Happy Birthdayï¼")
