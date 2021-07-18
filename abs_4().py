@@ -1,10 +1,10 @@
 # coding=gbk
 
-# Êä³ö¾ø¶ÔÖµ²»´óÓÚ3µÄËùÓÐÕûÊý
+# è¾“å‡ºç»å¯¹å€¼ä¸å¤§äºŽ3çš„æ‰€æœ‰æ•´æ•°
 
-# Êä³ö¾ø¶ÔÖµ²»´óÓÚ3µÄËùÓÐÕûÊý£¬´úÂëÈçÏÂ£º
+# è¾“å‡ºç»å¯¹å€¼ä¸å¤§äºŽ3çš„æ‰€æœ‰æ•´æ•°ï¼Œä»£ç å¦‚ä¸‹ï¼š
 
-list = [-3, -2, -1, 0, 1, 2, 9]   # ´´½¨Ò»×éÕûÊýÁÐ±í
-for num in list:                  # ±éÀúÁÐ±íÔªËØ
-	if abs(num)<=3:               # ¾ø¶ÔÖµ²»´óÓÚ3
-		print(num)                # Êä³ö½á¹û
+list = [-3, -2, -1, 0, 1, 2, 9]   # åˆ›å»ºä¸€ç»„æ•´æ•°åˆ—è¡¨
+for num in list:                  # éåŽ†åˆ—è¡¨å…ƒç´ 
+	if abs(num)<=3:           # ç»å¯¹å€¼ä¸å¤§äºŽ3
+		print(num)        # è¾“å‡ºç»“æžœ
