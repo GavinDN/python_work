@@ -18,7 +18,7 @@ x：要转换的参数，可以是数值、字符串、列表、元组等。
 说明：bool是int的子类。
 '''
 
-print(bool(0))                 # 将数字转换为bool类型
-print(bool(None))              # 将None转换为bool类型
+print(bool(0))                  # 将数字转换为bool类型
+print(bool(None))               # 将None转换为bool类型
 print(bool("2022，考研上岸！"))  # 将字符串转换为bool类型
 
