@@ -9,4 +9,4 @@ print(abs(-88))       # 求负数的绝对值
 print(abs(0))         # 求0的绝对值
 print(abs(-0.558))    # 求负数的绝对值
 print(abs(-1-1j))     # 求负数的绝对值
-print(abs(0.558))。   # 求负数的绝对值
+print(abs(0.558))     # 求负数的绝对值
