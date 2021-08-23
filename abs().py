@@ -11,4 +11,4 @@ x：表示数值，参数可以是整数、浮点数或者负数。
 
 print(abs(11.8))
 print(abs(6.19))
-print(abs(-6.19))
+print(abs(-6.18))
